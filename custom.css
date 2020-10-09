@@ -1,0 +1,53 @@
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(0,0,0,.5) !important;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url(background.jpg);
+
+    
+
+
+}
+
+#blogtitle {
+    font-size: 4rem;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 2rem;
+
+        padding-bottom: 50px;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
+
+.imgsp{
+    padding-top: 30px;
+}
+
+#fontcolor{
+    color: white!important;
+}
+
+.top{
+
+    background-color:transparent;
+    padding-top: 100px;
+
+}
+
+#text{
+    color: chocolate;
+}
+
+.folio{
+    padding-left: 50px;
